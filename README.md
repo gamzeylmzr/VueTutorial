@@ -1,3 +1,2 @@
 # VueTutorial
-Hangi tracking?
-Development branchı değişiklik kontrolü
+Bu nereye merge olmaktadır?

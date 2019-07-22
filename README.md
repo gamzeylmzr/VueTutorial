@@ -1,3 +1,5 @@
 # VueTutorial
-Test amaçlıdır.
-Github üzerinde ekleme yapılmıştır.
+Test amacı ile oluşturulmuştur.
+
+VSCODE Test
+Github Test

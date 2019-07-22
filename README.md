@@ -1,2 +1,3 @@
 # VueTutorial
-Test amaçlıdır.
+Test amacı ile oluşturulmuştur.
+Yeniden değişiklik yapılacaktır.
